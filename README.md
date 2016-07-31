@@ -15,3 +15,6 @@ The application is built on React + Flux. It use dummy data which is stored in L
 3. cmd : gulp
 4. browser: http://localhost:8888/
 5. User to login: Sumo - 123456 (Case sensitive - S in capitalize)
+
+##### How the code works
+![Alt text](/RefluxUsermanagement.jpg?raw=true "Optional Title")
