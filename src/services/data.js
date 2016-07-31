@@ -16,8 +16,8 @@ module.exports = {
 		group: 'management'
 	},
 	{
-		id: 'Lam Tac',
-		username: 'Lam Tac',
+		id: 'Lam',
+		username: 'Lam',
 		password: '123456',
 		email: 'lam@lam.com',
 		role: 'view',

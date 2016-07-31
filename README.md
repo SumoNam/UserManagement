@@ -14,6 +14,4 @@ The application is built on React + Flux. It use dummy data which is stored in L
 2. cmd : npm install (please waits for downloading packages)
 3. cmd : gulp
 4. browser: http://localhost:8888/
-5. User to login:
-* username: Sumo (Case sensitive - S in capitalize)
-* password: 123456
+5. User to login: Sumo - 123456 (Case sensitive - S in capitalize)
