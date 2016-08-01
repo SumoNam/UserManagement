@@ -1,5 +1,5 @@
 # User management system
-The application is built on React + Flux. It use dummy data which is stored in Local Storage at the first time you visit the website
+The application is built on React + Flux. It uses dummy data which is stored in Local Storage at the first time you visit the website
 
 #####This system where it should be possible to:
 * Login
