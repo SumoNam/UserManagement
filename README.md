@@ -17,4 +17,3 @@ The application is built on React + Flux. It use dummy data which is stored in L
 5. User to login: Sumo - 123456 (Case sensitive - S in capitalize)
 
 ##### How the code works
-![Alt text](/RefluxUsermanagement.jpg?raw=true "Optional Title")
