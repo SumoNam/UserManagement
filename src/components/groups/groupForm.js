@@ -17,6 +17,7 @@ var GroupForm = React.createClass({
 				<h1>Add Group</h1>
 
 				<Input
+					type="text"
 					name="name" 
 					label="Group name"
 					value={this.props.group.name}
@@ -25,13 +26,14 @@ var GroupForm = React.createClass({
 				<br/>
 
 				<Input
+					type="text"
 					name="info" 
 					label="Group info"
 					value={this.props.group.info}
 					onChange={this.props.onChange}
 					error={this.props.errors.info}/>
 				<br/>
-				<input type="submit" value="Save" className="btn btn-default" onClick={this.props.onSave} />
+				<input type="submit" value="Save" className="btn btn-primary" onClick={this.props.onSave} />
 			</form>
 		);
 	}

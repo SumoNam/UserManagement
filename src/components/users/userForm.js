@@ -73,7 +73,7 @@ var UserForm = React.createClass({
 					error={this.props.errors.group} 
 					onChange={this.props.onChange}/>
 				<br/>
-				<input type="submit" value="Save" className="btn btn-default" onClick={this.props.onSave} />
+				<input type="submit" value="Save" className="btn btn-primary" onClick={this.props.onSave} />
 			</form>
 		);
 	}

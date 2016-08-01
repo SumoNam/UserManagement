@@ -10,7 +10,7 @@ var Authentication = require('../authentication/authenticationMixins');
 
 var ManageGroupPage = React.createClass({
 	mixins: [
-		Router.Authentication
+		Authentication
 	],
 
 	statics: {
